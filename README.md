@@ -6,7 +6,7 @@ Arrow Button is a set of two Cocoa classes containing custom arrow-shaped NSButt
 
 ![Arrow Buttons](https://raw.github.com/timschroedernet/Arrow-Button/master/arrows.png)
 
-For details on how the app works and what you have to keep in mind, please read my [blog post on this project](http://blog.timschroeder.net/2012/12/27/arrow-buttons/).
+For details on how the classes work and what you have to keep in mind, please read my [blog post on this project](http://blog.timschroeder.net/2012/12/27/arrow-buttons/).
 
 ###License
 
