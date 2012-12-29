@@ -171,6 +171,7 @@
         customCell.bezelStyle = originalCell.bezelStyle;
         customCell.font = originalCell.font;
         customCell.title = originalCell.title;
+        [customCell setEnabled:originalCell.isEnabled];
         [self setCell:customCell];
     }
     return self;
