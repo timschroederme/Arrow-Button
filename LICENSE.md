@@ -1,4 +1,4 @@
-###Arrow Button License
+# Arrow Button License
 
 Copyright (c) 2012 Tim Schröder
 
